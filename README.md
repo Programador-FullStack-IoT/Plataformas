@@ -1,10 +1,8 @@
 <div align="center">
 
-![alt text](Plataformas.png)
+# 🌐 PLATAFORMAS - Grupo N°1
 
-# Tecnicatura Superior en Telecomunicaciones
-
-## Plataformas
+[![plataformas-1111.jpg](https://i.postimg.cc/Cxfkj4Tr/plataformas-1111.jpg)](https://postimg.cc/VJmJwnNX)
 
 ---
 
