@@ -145,3 +145,5 @@ La materia **Plataformas** tiene como objetivo que los estudiantes adquieran con
 ## 💡 Modalidad de Trabajo
 
 El trabajo se realiza de manera colaborativa, asignando tareas específicas a cada integrante y documentando los avances en el repositorio. Se promueve el uso de ramas y pull requests para mantener la calidad y trazabilidad de los cambios.
+
+[![platafomas.png](https://i.postimg.cc/c49s17VC/platafomas.png)](https://postimg.cc/6yZsYZ6x)
