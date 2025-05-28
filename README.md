@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 PLATAFORMAS - Grupo N°1
+# 🌐 PLATAFORMAS - Grupo Plata
 
 [![plataformas-1111.jpg](https://i.postimg.cc/Cxfkj4Tr/plataformas-1111.jpg)](https://postimg.cc/VJmJwnNX)
 
